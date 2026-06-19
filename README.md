@@ -104,7 +104,7 @@ Computer Engineering Student
 
 Full Stack Developer
 
-GitHub: https://github.com/katariyajignesh266
+Live demo : https://katariyajignesh266.github.io/Image-Gallery-jigs/
 
 ---
 
